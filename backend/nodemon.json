@@ -1,0 +1,5 @@
+{
+    "watch": ["./controllers", "./models", "./routes", "index.ts"],
+    "ext": "ts",
+    "exec": "bun run index.ts"
+  }
